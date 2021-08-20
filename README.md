@@ -5,6 +5,7 @@ I am building [TabApp](https://github.com/EthanOrlander/tabapp).
 
 - 📍 I am from Toronto
 - 🎓 I study Computer Science at [Queen's](https://www.queensu.ca/)
+- 📢 Campus Ambassador at [Wealthsimple](https://www.wealthsimple.com/)
 - 📫 You can find me on [Twitter](https://twitter.com/ethanorlander) and [LinkedIn](https://www.linkedin.com/in/ethanorlander/)
 
 **Languages:**  
