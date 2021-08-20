@@ -6,7 +6,7 @@
 - 📍 I am from Toronto
 - 🎓 I study Computer Science at [Queen's](https://www.queensu.ca/)
 - 📢 Campus Ambassador at [Wealthsimple](https://www.wealthsimple.com/)
-- 💻 Contributing to Fig
+- 💻 Contributing to [Fig](https://github.com/withfig/autocomplete)
 - 📫 You can find me on [Twitter](https://twitter.com/ethanorlander) and [LinkedIn](https://www.linkedin.com/in/ethanorlander/)
 
 **Languages:**  
