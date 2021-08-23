@@ -10,6 +10,6 @@
 - 📫 You can find me on [Twitter](https://twitter.com/ethanorlander) and [LinkedIn](https://www.linkedin.com/in/ethanorlander/)
 
 **Languages:**  
-javascript (node, express, react, react-native, apollo), typescript, python (and a little bit of everything)
+javascript (node, express, react, react-native, apollo), typescript, python, learning go (and a little bit of everything)
 
 ![ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethanorlander&show_icons=true&hide=[%22issues%22])
