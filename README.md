@@ -1,7 +1,5 @@
 ### 👋 Hi there, I'm Ethan Orlander
 
-🛠️ I am building [TabApp](https://github.com/EthanOrlander/tabapp).
-
 
 - 📍 I am from Toronto
 - 🎓 I study Computer Science at [Queen's](https://www.queensu.ca/)
