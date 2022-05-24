@@ -2,9 +2,9 @@
 
 
 - 📍 I am from Toronto
-- 🎓 I study Computer Science at [Queen's](https://www.queensu.ca/)
 - 💻 SWE Intern at [AngelList Venture](https://www.angellist.com/stack)
 - 🏆 Winner - University of Waterloo's Hack the North. View [devpost](https://devpost.com/software/twogether) or [the code](https://github.com/tiproad/omw)
+- 🎓 I study Computer Science at [Queen's](https://www.queensu.ca/)
 - 📫 You can find me on [Twitter](https://twitter.com/ethanorlander) and [LinkedIn](https://www.linkedin.com/in/ethanorlander/)
 
 **Languages:**  
