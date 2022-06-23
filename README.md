@@ -8,6 +8,6 @@
 - 📫 You can find me on [Twitter](https://twitter.com/ethanorlander) and [LinkedIn](https://www.linkedin.com/in/ethanorlander/)
 
 **Languages:**  
-ruby (rails), javascript (node, express, react, react-native, apollo, ionic), typescript, python, some go (and a little bit of everything)
+ruby (rails), javascript (node, express, react, react-native, apollo, ionic), typescript, python, Java, some go (and a little bit of everything)
 
 ![ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethanorlander&show_icons=true&count_private=true&theme=github_dark)
