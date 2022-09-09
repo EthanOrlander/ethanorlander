@@ -9,5 +9,3 @@
 
 **Languages:**  
 ruby (rails), javascript (node, express, react, react-native, apollo, ionic), typescript, python, java, some go (and a little bit of everything)
-
-![ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethanorlander&show_icons=true&count_private=true&theme=github_dark)
