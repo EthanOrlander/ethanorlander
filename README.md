@@ -1,11 +1,8 @@
-### 👋 Hi there, I'm Ethan Orlander
+### 👋 Hi there, I'm Ethan
 
 
 - 📍 I am from Toronto
-- 💻 SWE Intern at [AngelList Venture](https://www.angellist.com/stack)
-- 🏆 Winner - University of Waterloo's Hack the North. View [devpost](https://devpost.com/software/twogether) or [the code](https://github.com/tiproad/omw)
-- 🎓 I study Computer Science at [Queen's](https://www.queensu.ca/)
+- 💻 SWE Intern at [AngelList](https://www.angellist.com/)
+- 🎓 Computer Science at [Queen's](https://www.queensu.ca/)
 - 📫 You can find me on [Twitter](https://twitter.com/ethanorlander) and [LinkedIn](https://www.linkedin.com/in/ethanorlander/)
 
-**Languages:**  
-ruby (rails), javascript (node, express, react, react-native, apollo, ionic), typescript, python, java, some go (and a little bit of everything)
