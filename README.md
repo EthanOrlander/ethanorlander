@@ -1,6 +1,6 @@
 ✌️
 
-Building products for startups at [AngelList](https://www.angellist.com/)
+Building AI for startups & VC at [AngelList](https://www.angellist.com/)
 
 
 📍 SF
